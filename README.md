@@ -1,5 +1,5 @@
 # 🌿 Leaf Disease Predictor | Deep Learning-Based Plant Health Detection 🌱
-This CNN-based leaf disease predictor is designed to classify 38 different plant diseases with high accuracy. Built using deep learning, it helps farmers and researchers diagnose plant health efficiently.
+This CNN-based leaf disease predictor is designed to classify 38 different plant diseases with high accuracy. Built using deep learning, it can help farmers and researchers diagnose plant health efficiently.
 <br>
 🚀 Features
 ✅ Deep Learning Model (CNNs) – Trained on a diverse dataset for accurate classification
@@ -8,10 +8,10 @@ This CNN-based leaf disease predictor is designed to classify 38 different plant
 ✅ Fast & Reliable – Real-time image-based disease classification
 <br>
 🔧 Tech Stack
-🔹 Python (TensorFlow, Keras, OpenCV)
+🔹 Python (TensorFlow, Keras)
 🔹 Streamlit (Web App Framework)
 🔹 Firebase (Database for storing predictions)
-🔹 NumPy, Pandas, Matplotlib (Data Processing & Visualization)
+🔹 NumPy, Pandas (Data Processing )
 <br>
 📸 How It Works
 1️⃣ Upload an image of a leaf.
