@@ -1,6 +1,7 @@
-tensorflow
 streamlit
-firebase-admin
-Pillow
+tensorflow
+keras
 numpy
 pandas
+Pillow
+firebase-admin
