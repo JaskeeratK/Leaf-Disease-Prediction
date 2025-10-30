@@ -1,8 +1,9 @@
 streamlit
-tensorflow
-keras
+tensorflow-cpu
+Pillow
 numpy
 pandas
-Pillow
 firebase-admin
+protobuf<4.0.0
+
 
